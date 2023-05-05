@@ -1,13 +1,13 @@
 {
-  "name": "JMTHON",
-  "description": " Arabic jmthonc Powerful & Safe based on Telethon",
-  "logo": "https://telegra.ph/file/d90dfa4c680c0d0d2e652.jpg",
+  "name": "سورس تيبثون العربي - TEPTHON USERBOT",
+  "description": "أهلًا بك في سورس تيبثون العربي - @Tepthon",
+  "logo": "https://graph.org/file/4b0a984181d9b9d6dc3d0.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/kingasd64/temp",
+  "repository": "https://github.com/Tepthonee/temp",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
